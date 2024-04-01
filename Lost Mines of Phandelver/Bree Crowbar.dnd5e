@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character version="1.0.3" preview="false">
+	<!-- Aurora - https://www.aurorabuilder.com -->
+	<!-- information -->
+	<information>
+		<group>Lost Mines Of Phandelver</group>
+		<generationOption>3</generationOption>
+	</information>
+	<!-- display data -->
+	<display-properties favorite="false">
+		<name>Bree Crowbar</name>
+		<race>Lightfoot Halfling</race>
+		<class>Rogue</class>
+		<archetype>
+		</archetype>
+		<background>Criminal</background>
+		<level>3</level>
+		<portrait>
+			<companion>
+			</companion>
+			<local>C:\Users\twinb\Documents\5e Character Builder\portraits\halfling lightfoot halfling blank female.jpg</local>
+			<base64><![CDATA[iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAYAAAB5fY51AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPBSURBVHhe7dQBDQAADMOg+ze962gCIrgBRAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMoQFZAgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBiezXUE9hemo4SAAAAAElFTkSuQmCC]]></base64>
+		</portrait>
+	</display-properties>
+	<!-- build data -->
+	<build>
+		<input>
+			<name>Bree Crowbar</name>
+			<gender>Female</gender>
+			<player-name>Player One</player-name>
+			<experience>2650</experience>
+			<attacks>
+				<description><![CDATA[]]></description>
+				<attack identifier="6ad02093-27c9-4ccd-9353-6412be55144f" name="Shortsword" range="5 ft" attack="+5 vs AC" damage="1d6+3 piercing" displayed="true" ability="Dexterity">
+					<description><![CDATA[Finesse, Light]]></description>
+				</attack>
+				<attack identifier="0fd90553-60dd-4585-bb0b-220f05aa10cf" name="Dagger" range="20/60" attack="+5 vs AC" damage="1d4+3 piercing" displayed="true" ability="Dexterity">
+					<description><![CDATA[Finesse, Light, Thrown]]></description>
+				</attack>
+				<attack identifier="e98f926f-8b4c-4c98-9084-b45179591eff" name="Shortbow" range="80/320" attack="+5 vs AC" damage="1d6+3 piercing" displayed="true" ability="Dexterity">
+					<description><![CDATA[Ammunition, Two-Handed]]></description>
+				</attack>
+			</attacks>
+			<backstory><![CDATA[The town of Phandalin is built on the ruins of an older settlement, vacant for five centuries until some hardy settlers set about rebuilding it some years back. Drawn by stories of gold and platinum in the nearby foothills, you came to Phandalin as well, not to earn a living, but to prey on those who struck it rich.
+
+You joined a gang calling itself the Redbrands and made some decent coin as a burglar, enforcer, or fence. 
+But you must have made an enemy among your fellow Redbrands. 
+
+Someone set you up.
+
+On that person’s word, the head of the Redbrands—a wizard called Glasstaff—tried to have you killed. 
+You escaped, barely alive and thanking Tymora, the goddess of good fortune, for your luck. 
+
+You fled Phandalin, almost penniless and with only the tools of your trade to your name.
+
+<b>Personal Goal:</b> <i>Get Your Revenge</i>. Someone in the Redbrands
+nearly got you killed, and you sure would like to know who it was. And
+then you’d like to take your revenge—on that person, on <u>Glasstaff</u>,
+maybe on all the Redbrands. And you just got a tip that might help you:
+someone named <u>Halia Thornton</u> also has it out for the Redbrands. She
+lives in Phandalin, which means showing your face to the Redbrands
+who still want you dead.
+
+<b>Alignment:</b> Neutral. You tend to do whatever seems best at the
+time. Sure, you’ve done some things you’re not proud of, and you’re
+not personally committed to making the world a better place. But you
+have no interest in causing suffering or making things worse than they
+already are]]></backstory>
+			<background-trinket>
+			</background-trinket>
+			<background-traits>I never have a plan, but I'm great at making things up as I go along. Also, the best way to get me to do something is to tell me I can't do it. Since an encounter on the outskirts of Phandalin, I've come to truly learn the value of hating goblins.</background-traits>
+			<background-ideals>People; I'm loyal to my friends, not to any ideals. Everyone else can take a trip on the River Styx for all I care.</background-ideals>
+			<background-bonds>Qelline Alderleaf, my aunt, has a farm in Phandalin. I always give her some of my ill-gotten gains.</background-bonds>
+			<background-flaws>My aunt must never know the deeds I did as a member of the Redbrands.</background-flaws>
+			<background>
+				<feature name="Criminal Contact">
+					<description><![CDATA[You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you. You can move secret information or stolen goods through your contact in exchange for money, or other information you might seek.]]></description>
+				</feature>
+			</background>
+			<organization>
+				<name>
+				</name>
+				<symbol>
+				</symbol>
+				<allies><![CDATA[]]></allies>
+			</organization>
+			<additional-features><![CDATA[]]></additional-features>
+			<currency>
+				<copper>0</copper>
+				<silver>0</silver>
+				<electrum>0</electrum>
+				<gold>0</gold>
+				<platinum>0</platinum>
+				<equipment><![CDATA[]]></equipment>
+				<treasure><![CDATA[GH]]></treasure>
+			</currency>
+			<notes>
+				<note column="left">
+				</note>
+				<note column="right">
+				</note>
+			</notes>
+			<quest>
+			</quest>
+		</input>
+		<appearance>
+			<portrait>C:\Users\twinb\Documents\5e Character Builder\portraits\halfling lightfoot halfling blank female.jpg</portrait>
+			<age>
+			</age>
+			<height>2'7"</height>
+			<weight>35 lb.</weight>
+			<eyes>
+			</eyes>
+			<skin>
+			</skin>
+			<hair>
+			</hair>
+		</appearance>
+		<abilities available-points="0">
+			<strength>8</strength>
+			<dexterity>14</dexterity>
+			<constitution>12</constitution>
+			<intelligence>13</intelligence>
+			<wisdom>10</wisdom>
+			<charisma>15</charisma>
+		</abilities>
+		<elements level-count="3" registered-count="20">
+			<element type="Option" name="Feats" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
+			<element type="Option" name="Multiclassing" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING">
+				<element type="Grants" name="Multiclass Spellcasting" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
+			</element>
+			<element type="Level" name="1" id="ID_LEVEL_1" rndhp="8,6,5,1,8,1,4,2,5,8,5,6,8,5,8,7,8,4,7,3">
+				<element type="Race" name="Race" requiredLevel="1" checksum="1597ef76" registered="ID_RACE_HALFLING">
+					<element type="Size" name="Small" id="ID_SIZE_SMALL" />
+					<element type="Language" name="Common" id="ID_LANGUAGE_COMMON" />
+					<element type="Language" name="Halfling" id="ID_LANGUAGE_HALFLING" />
+					<element type="Racial Trait" name="Lucky" id="ID_RACIAL_TRAIT_LUCKY" />
+					<element type="Racial Trait" name="Brave" id="ID_RACIAL_TRAIT_BRAVE" />
+					<element type="Racial Trait" name="Halfling Nimbleness" id="ID_RACIAL_TRAIT_HALFLING_NIMBLENESS" />
+					<element type="Racial Trait" name="Halfling Subrace" id="ID_RACIAL_TRAIT_HALFLING_SUBRACE">
+						<element type="Sub Race" name="Halfling Subrace" requiredLevel="1" checksum="202e9853" registered="ID_SUB_RACE_LIGHTFOOT_HALFLING">
+							<element type="Racial Trait" name="Naturally Stealthy" id="ID_RACIAL_TRAIT_NATURALLY_STEALTHY" />
+						</element>
+					</element>
+				</element>
+				<element type="Class" name="Class" requiredLevel="1" checksum="33a7b15b" registered="ID_WOTC_PHB_CLASS_ROGUE">
+					<element type="Proficiency" name="Skill Proficiency (Rogue)" requiredLevel="1" number="1" checksum="234d4fe8" registered="ID_PROFICIENCY_SKILL_ACROBATICS" />
+					<element type="Proficiency" name="Skill Proficiency (Rogue)" requiredLevel="1" number="2" checksum="ba441e52" registered="ID_PROFICIENCY_SKILL_INVESTIGATION" />
+					<element type="Proficiency" name="Skill Proficiency (Rogue)" requiredLevel="1" number="3" checksum="cd432ec4" registered="ID_PROFICIENCY_SKILL_PERFORMANCE" />
+					<element type="Proficiency" name="Skill Proficiency (Rogue)" requiredLevel="1" number="4" checksum="5327bb67" registered="ID_PROFICIENCY_SKILL_SLEIGHTOFHAND" />
+					<element type="Proficiency" name="Armor Proficiency (Light Armor)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR">
+						<element type="Proficiency" name="Armor Proficiency (Padded)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
+						<element type="Proficiency" name="Armor Proficiency (Leather)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LEATHER" />
+						<element type="Proficiency" name="Armor Proficiency (Studded Leather)" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_STUDDED_LEATHER" />
+					</element>
+					<element type="Proficiency" name="Weapon Proficiency (Simple Weapons)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS">
+						<element type="Proficiency" name="Weapon Proficiency (Simple Melee Weapons)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_MELEE_WEAPONS">
+							<element type="Proficiency" name="Weapon Proficiency (Club)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CLUB" />
+							<element type="Proficiency" name="Weapon Proficiency (Dagger)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
+							<element type="Proficiency" name="Weapon Proficiency (Greatclub)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_GREATCLUB" />
+							<element type="Proficiency" name="Weapon Proficiency (Handaxe)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_HANDAXE" />
+							<element type="Proficiency" name="Weapon Proficiency (Javelin)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_JAVELIN" />
+							<element type="Proficiency" name="Weapon Proficiency (Light Hammer)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LIGHT_HAMMER" />
+							<element type="Proficiency" name="Weapon Proficiency (Mace)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MACE" />
+							<element type="Proficiency" name="Weapon Proficiency (Quarterstaff)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_QUARTERSTAFF" />
+							<element type="Proficiency" name="Weapon Proficiency (Sickle)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SICKLE" />
+							<element type="Proficiency" name="Weapon Proficiency (Spear)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SPEAR" />
+							<element type="Proficiency" name="Weapon Proficiency (Unarmed Strike)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_UNARMED_STRIKE" />
+						</element>
+						<element type="Proficiency" name="Weapon Proficiency (Simple Ranged Weapons)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_RANGED_WEAPONS">
+							<element type="Proficiency" name="Weapon Proficiency (Crossbow, Light)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CROSSBOW_LIGHT" />
+							<element type="Proficiency" name="Weapon Proficiency (Dart)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
+							<element type="Proficiency" name="Weapon Proficiency (Shortbow)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTBOW" />
+							<element type="Proficiency" name="Weapon Proficiency (Sling)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SLING" />
+						</element>
+					</element>
+					<element type="Proficiency" name="Weapon Proficiency (Crossbow, Hand)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CROSSBOW_HAND" />
+					<element type="Proficiency" name="Weapon Proficiency (Longsword)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGSWORD" />
+					<element type="Proficiency" name="Weapon Proficiency (Rapier)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_RAPIER" />
+					<element type="Proficiency" name="Weapon Proficiency (Shortsword)" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTSWORD" />
+					<element type="Proficiency" name="Tool Proficiency (Thieves’ tools)" id="ID_PROFICIENCY_TOOL_PROFICIENCY_THIEVES_TOOLS" />
+					<element type="Proficiency" name="Saving Throw Proficiency (Dexterity)" id="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY" />
+					<element type="Proficiency" name="Saving Throw Proficiency (Intelligence)" id="ID_PROFICIENCY_SAVINGTHROW_INTELLIGENCE" />
+					<element type="Class Feature" name="Expertise" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_EXPERTISE">
+						<element type="Class Feature" name="Expertise (Rogue)" requiredLevel="1" number="1" checksum="dc05be48" registered="ID_EXPERTISE_SKILL_STEALTH" />
+						<element type="Class Feature" name="Expertise (Rogue)" requiredLevel="1" number="2" checksum="450ceff2" registered="ID_EXPERTISE_TOOL_THIEVES_TOOLS" />
+					</element>
+					<element type="Class Feature" name="Sneak Attack" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_SNEAKATTACK" />
+					<element type="Class Feature" name="Thieves’ Cant" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_THIEVES_CANT">
+						<element type="Language" name="Thieves’ Cant" id="ID_WOTC_PHB_LANGUAGE_THIEVES_CANT" />
+					</element>
+					<element type="Grants" name="Multiclassing Prerequisite" id="ID_INTERNAL_GRANTS_MULTICLASSING_PREREQUISITE" />
+					<element type="Class Feature" name="Cunning Action" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_CUNNINGACTION" />
+					<element type="Class Feature" name="Roguish Archetype" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_ROGUISHARCHETYPE">
+						<element type="Archetype" name="Roguish Archetype" requiredLevel="3" checksum="ef472bfb" registered="ID_WOTC_PHB_ARCHETYPE_THIEF">
+							<element type="Archetype Feature" name="Fast Hands" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_THIEF_FASTHANDS" />
+							<element type="Archetype Feature" name="Second-Story Work" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_THIEF_SECONDSTORYWORK" />
+						</element>
+					</element>
+				</element>
+				<element type="Background" name="Background" requiredLevel="1" checksum="6a621392" registered="ID_BACKGROUND_CRIMINAL">
+					<element type="Proficiency" name="Gaming Set (Criminal)" requiredLevel="1" checksum="72b1cf74" registered="ID_PROFICIENCY_GAMING_SET_PROFICIENCY_PLAYING_CARD_SET" />
+					<element type="Background Variant" name="Variant Criminal" requiredLevel="1" checksum="77fb9d88" registered="" />
+					<element type="Background Feature" name="Variant Feature" requiredLevel="1" checksum="a79c8a05" registered="" />
+					<element type="List" name="Criminal Specialty" requiredLevel="1" checksum="8201f945" isList="true" registered="" />
+					<element type="List" name="Personality Trait" requiredLevel="1" number="1" checksum="8bcd3fab" isList="true" registered="" />
+					<element type="List" name="Personality Trait" requiredLevel="1" number="2" checksum="12c46e11" isList="true" registered="" />
+					<element type="List" name="Ideal" requiredLevel="1" checksum="9c023aa6" isList="true" registered="" />
+					<element type="List" name="Bond" requiredLevel="1" checksum="c8d99674" isList="true" registered="" />
+					<element type="List" name="Flaw" requiredLevel="1" checksum="77a99e34" isList="true" registered="" />
+					<element type="Proficiency" name="Deception" id="ID_PROFICIENCY_SKILL_DECEPTION" />
+					<element type="Proficiency" name="Stealth" id="ID_PROFICIENCY_SKILL_STEALTH" />
+					<element type="Proficiency" name="Tool Proficiency (Thieves’ tools)" id="ID_PROFICIENCY_TOOL_PROFICIENCY_THIEVES_TOOLS" />
+					<element type="Background Feature" name="Feature: Criminal Contact" id="ID_BACKGROUND_FEATURE_CRIMINAL_CONTACT" />
+				</element>
+				<element type="Alignment" name="Alignment" requiredLevel="1" checksum="c9ac49d5" registered="" />
+				<element type="Deity" name="Deity" requiredLevel="1" checksum="989cce4c" registered="" />
+				<element type="Grants" name="Base" id="ID_INTERNAL_GRANTS_CHARACTER_BASE" />
+				<element type="Grants" name="Spellcasting Base" id="ID_INTERNAL_GRANTS_SPELLCASTING_BASE" />
+				<element type="Grants" name="Base Armor Class" id="ID_INTERNAL_GRANTS_ARMOR_CLASS_BASE" />
+				<element type="Grants" name="Dexterity Modifier" id="ID_INTERNAL_GRANTS_ARMOR_CLASS_DEXTERITY_MODIFIER" />
+				<element type="Grants" name="Constitution Modifier" id="ID_INTERNAL_GRANTS_HP_CONSTITUTION_MODIFIER" />
+			</element>
+			<element type="Level" name="2" id="ID_LEVEL_2" />
+			<element type="Level" name="3" id="ID_LEVEL_3" />
+		</elements>
+		<defenses>
+			<conditional>
+			</conditional>
+		</defenses>
+		<companion name="">
+			<attributes>
+				<strength>10</strength>
+				<dexterity>10</dexterity>
+				<constitution>10</constitution>
+				<intelligence>10</intelligence>
+				<wisdom>10</wisdom>
+				<charisma>10</charisma>
+			</attributes>
+			<saves>
+				<save ability="strength">0</save>
+				<save ability="dexterity">0</save>
+				<save ability="constitution">0</save>
+				<save ability="intelligence">0</save>
+				<save ability="wisdom">0</save>
+				<save ability="charisma">0</save>
+			</saves>
+			<skills>
+				<skill name="Acrobatics">0</skill>
+				<skill name="Animal Handling">0</skill>
+				<skill name="Arcana">0</skill>
+				<skill name="Athletics">0</skill>
+				<skill name="Deception">0</skill>
+				<skill name="History">0</skill>
+				<skill name="Insight">0</skill>
+				<skill name="Intimidation">0</skill>
+				<skill name="Investigation">0</skill>
+				<skill name="Medicine">0</skill>
+				<skill name="Nature">0</skill>
+				<skill name="Perception">0</skill>
+				<skill name="Performance">0</skill>
+				<skill name="Persuasion">0</skill>
+				<skill name="Religion">0</skill>
+				<skill name="Sleight of Hand">0</skill>
+				<skill name="Stealth">0</skill>
+				<skill name="Survival">0</skill>
+			</skills>
+			<portrait location="local">
+			</portrait>
+		</companion>
+		<equipment>
+			<storage name="#1" />
+			<storage name="#2" />
+			<item identifier="6ad02093-27c9-4ccd-9353-6412be55144f" name="Shortsword" id="ID_WOTC_PHB_WEAPON_SHORTSWORD">
+				<equipped location="Primary Hand">true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="e98f926f-8b4c-4c98-9084-b45179591eff" name="Shortbow" id="ID_WOTC_PHB_WEAPON_SHORTBOW">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="0fd90553-60dd-4585-bb0b-220f05aa10cf" name="Dagger" id="ID_WOTC_PHB_WEAPON_DAGGER">
+				<equipped location="Secondary Hand">true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="5a00325d-8a9d-492f-909a-8c392d5ce1cb" name="Leather" id="ID_WOTC_ARMOR_LIGHT_LEATHER">
+				<equipped location="Armor">true</equipped>
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="07c25df6-b22e-48b6-8d05-81e877e15efb" name="Thieves’ Tools" id="ID_WOTC_PHB_ITEM_TOOL_THIEVES_TOOLS">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="ecb8657e-8300-45fe-8925-bf8281d89072" name="Backpack" id="ID_WOTC_PHB_ITEM_BACKPACK">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="9dd16321-ef40-41fe-a9cc-46b8c80b34ed" name="Piton" id="ID_WOTC_PHB_ITEM_PITON" amount="10">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="bd7a3b2f-ba43-4fe5-ac02-c2631c05db73" name="Candle" id="ID_WOTC_PHB_ITEM_CANDLE" amount="5">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="edd43104-8cd8-42e5-bb67-e30b663dee97" name="Bell" id="ID_WOTC_PHB_ITEM_BELL">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="a4009b35-1418-417e-af9b-0247ad3e0534" name="Hammer" id="ID_WOTC_PHB_ITEM_HAMMER">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="df3f7624-402c-4f04-9efb-e511f6c75995" name="Rope, Hempen (50 feet)" id="ID_WOTC_PHB_ITEM_ROPE_HEMPEN_50FEET">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="38e0e368-e6a0-4a8f-b520-fe8b88dceccf" name="Lantern, Hooded" id="ID_WOTC_PHB_ITEM_LANTERN_HOODED">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="6c431996-6782-43f3-bb65-a0bebd31ab7c" name="Oil (flask)" id="ID_WOTC_PHB_ITEM_OIL_FLASK">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="fe105c68-5740-4f3d-8f36-562207a5b10e" name="Rations (1 day)" id="ID_WOTC_PHB_ITEM_RATIONS_1DAY" amount="6">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="73d5ece0-0e78-4b38-add7-3fb26b2c8cb4" name="Tinderbox" id="ID_WOTC_PHB_ITEM_TINDERBOX">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="360f96f5-7e28-49a3-8d0a-aa1298ef4d1f" name="Waterskin" id="ID_WOTC_PHB_ITEM_WATERSKIN">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="02a7a08e-fd6b-42cb-a5c7-23486a801df4" name="Crowbar" id="ID_WOTC_PHB_ITEM_CROWBAR" amount="2">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="342c78a9-b7f8-4a68-be2f-18a7a9617274" name="Clothes, Common" id="ID_WOTC_PHB_ITEM_CLOTHES_COMMON">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="0a7ab2cc-456c-4673-b08c-03e27779b3d9" name="Pouch" id="ID_WOTC_PHB_ITEM_POUCH">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="e45d44ba-97fb-42c9-83df-78bd21413f7c" name="Bottle, Glass" id="ID_WOTC_PHB_ITEM_BOTTLE_GLASS">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="64dac997-755f-418c-830e-a5a1e31bfff8" name="Chalk" id="ID_WOTC_PHB_ITEM_CHALK_1PIECE" amount="2">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="a1164d14-c050-41ee-8f47-559a058ec60b" name="Bedroll" id="ID_WOTC_PHB_ITEM_BEDROLL">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="b719e9ba-2457-4220-931e-ca07c29f2300" name="Shovel" id="ID_WOTC_PHB_ITEM_SHOVEL">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="f4ce8dc0-dc1a-427d-b686-6cb5eb26c7a4" name="Healer’s Kit" id="ID_WOTC_PHB_ITEM_HEALERSKIT">
+				<details card="true">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+			<item identifier="0019ab28-85f4-4755-add7-0a15ebbc9046" name="Dart" id="ID_WOTC_PHB_WEAPON_DART" sidebar="true">
+				<details card="true">
+					<name>Throwing Knife</name>
+					<notes>Roughly made throwing knives provided by the smith in Phandalin.
+
+Currently held: 5</notes>
+				</details>
+			</item>
+			<item identifier="e35e5cc2-8a17-4afb-9033-91bb0cb7095f" name="Additional Proficiency, Tool Proficiency (Carpenter’s tools)" id="ID_PHB_INTERNAL_ITEM_PROFICIENCY_PROXY_PROFICIENCY_CARPENTERS_TOOLS" hidden="true">
+				<details card="false">
+					<name>
+					</name>
+					<notes>
+					</notes>
+				</details>
+			</item>
+		</equipment>
+		<sum element-count="76">
+			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_FEATS" />
+			<element type="Option" id="ID_INTERNAL_OPTION_ALLOW_MULTICLASSING" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASS_SPELLCASTING" />
+			<element type="Level" id="ID_LEVEL_1" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_CHARACTER_BASE" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_SPELLCASTING_BASE" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_ARMOR_CLASS_BASE" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_ARMOR_CLASS_DEXTERITY_MODIFIER" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_HP_CONSTITUTION_MODIFIER" />
+			<element type="Race" id="ID_RACE_HALFLING" />
+			<element type="Size" id="ID_SIZE_SMALL" />
+			<element type="Language" id="ID_LANGUAGE_COMMON" />
+			<element type="Language" id="ID_LANGUAGE_HALFLING" />
+			<element type="Racial Trait" id="ID_RACIAL_TRAIT_LUCKY" />
+			<element type="Racial Trait" id="ID_RACIAL_TRAIT_BRAVE" />
+			<element type="Racial Trait" id="ID_RACIAL_TRAIT_HALFLING_NIMBLENESS" />
+			<element type="Racial Trait" id="ID_RACIAL_TRAIT_HALFLING_SUBRACE" />
+			<element type="Sub Race" id="ID_SUB_RACE_LIGHTFOOT_HALFLING" />
+			<element type="Racial Trait" id="ID_RACIAL_TRAIT_NATURALLY_STEALTHY" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_ACROBATICS" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_INVESTIGATION" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_PERFORMANCE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_SLEIGHTOFHAND" />
+			<element type="Background" id="ID_BACKGROUND_CRIMINAL" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_DECEPTION" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SKILL_STEALTH" />
+			<element type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_THIEVES_TOOLS" />
+			<element type="Background Feature" id="ID_BACKGROUND_FEATURE_CRIMINAL_CONTACT" />
+			<element type="Proficiency" id="ID_PROFICIENCY_GAMING_SET_PROFICIENCY_PLAYING_CARD_SET" />
+			<element type="Level" id="ID_LEVEL_2" />
+			<element type="Level" id="ID_LEVEL_3" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_SHORTSWORD" />
+			<element type="Weapon" id="ID_WOTC_PHB_WEAPON_DAGGER" />
+			<element type="Armor" id="ID_WOTC_ARMOR_LIGHT_LEATHER" />
+			<element type="Class" id="ID_WOTC_PHB_CLASS_ROGUE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_PADDED" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LEATHER" />
+			<element type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_STUDDED_LEATHER" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_MELEE_WEAPONS" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CLUB" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DAGGER" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_GREATCLUB" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_HANDAXE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_JAVELIN" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LIGHT_HAMMER" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MACE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_QUARTERSTAFF" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SICKLE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SPEAR" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_UNARMED_STRIKE" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_RANGED_WEAPONS" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CROSSBOW_LIGHT" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_DART" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTBOW" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SLING" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CROSSBOW_HAND" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGSWORD" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_RAPIER" />
+			<element type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTSWORD" />
+			<element type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_THIEVES_TOOLS" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_DEXTERITY" />
+			<element type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_INTELLIGENCE" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_EXPERTISE" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_SNEAKATTACK" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_THIEVES_CANT" />
+			<element type="Language" id="ID_WOTC_PHB_LANGUAGE_THIEVES_CANT" />
+			<element type="Grants" id="ID_INTERNAL_GRANTS_MULTICLASSING_PREREQUISITE" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_CUNNINGACTION" />
+			<element type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ROGUE_ROGUISHARCHETYPE" />
+			<element type="Class Feature" id="ID_EXPERTISE_TOOL_THIEVES_TOOLS" />
+			<element type="Class Feature" id="ID_EXPERTISE_SKILL_STEALTH" />
+			<element type="Archetype" id="ID_WOTC_PHB_ARCHETYPE_THIEF" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_THIEF_FASTHANDS" />
+			<element type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_THIEF_SECONDSTORYWORK" />
+		</sum>
+		<magic />
+	</build>
+	<!-- restricted sources -->
+	<sources>
+		<restricted />
+	</sources>
+</character>
